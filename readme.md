@@ -40,25 +40,34 @@ Plant-Disease-Detection/
 │── README.md
 
 ## Installation
+```
 1. Clone the repository:
+```
    
 git clone https://github.com/itsharshnagar/Plant-Disease-Detection.git
 cd Plant-Disease-Detection
+```
    
 
 2. Create and activate a Python virtual environment:
+```
    
    python -m venv env
    env\Scripts\activate
+   ```
    
 
 3. Install required packages:
+```
    
    pip install -r requirements.txt
+   ```
    
 
 
 4. Run the application:
+```
    
    python app.py
+   ```
    
